@@ -214,6 +214,16 @@ img {
   width: 30%;
   margin-bottom: 30px;
 }
+.nav-item {
+  padding: 5px 20px;
+  border: 1px ;
+  margin: 10pg;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  color: gray;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
